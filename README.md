@@ -16,16 +16,16 @@ StudySmart is a modern Android application designed to help users manage persona
 ## Screenshots 📷
 *Include screenshots of your app's main screens here.*
 - **Home Screen**  
-![image](https://github.com/user-attachments/assets/eb3710cd-000c-42a1-b7e3-2ca79a08c065)
+  ![Home Screen](https://github.com/user-attachments/assets/eb3710cd-000c-42a1-b7e3-2ca79a08c065)
 
 - **Study Session Timer**  
-![image](https://github.com/user-attachments/assets/2de9d489-c89d-4218-b64d-baede5490d1b)
+  ![Study Session Timer](https://github.com/user-attachments/assets/2de9d489-c89d-4218-b64d-baede5490d1b)
 
--**Task Screen **
-![image](https://github.com/user-attachments/assets/a154b3f5-823f-44aa-ae63-f53b1819e675)
+- **Task Screen**  
+  ![Task Screen](https://github.com/user-attachments/assets/a154b3f5-823f-44aa-ae63-f53b1819e675)
 
--**Subject Screen **
-![image](https://github.com/user-attachments/assets/241d0262-a01d-48da-8ae9-cc781d3ebc1c)
+- **Subject Screen**  
+  ![Subject Screen](https://github.com/user-attachments/assets/241d0262-a01d-48da-8ae9-cc781d3ebc1c)
 
 ---
 
